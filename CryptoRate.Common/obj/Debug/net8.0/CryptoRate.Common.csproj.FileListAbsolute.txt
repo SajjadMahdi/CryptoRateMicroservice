@@ -1,0 +1,14 @@
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\obj\Debug\net8.0\CryptoRate.Common.csproj.AssemblyReference.cache
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\obj\Debug\net8.0\CryptoRate.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\obj\Debug\net8.0\CryptoRate.Common.AssemblyInfoInputs.cache
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\obj\Debug\net8.0\CryptoRate.Common.AssemblyInfo.cs
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\obj\Debug\net8.0\CryptoRate.Common.csproj.CoreCompileInputs.cache
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\bin\Debug\net8.0\CryptoRate.Common.deps.json
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\bin\Debug\net8.0\CryptoRate.Common.runtimeconfig.json
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\bin\Debug\net8.0\CryptoRate.Common.dll
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\bin\Debug\net8.0\CryptoRate.Common.pdb
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\obj\Debug\net8.0\CryptoRate.Common.dll
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\obj\Debug\net8.0\refint\CryptoRate.Common.dll
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\obj\Debug\net8.0\CryptoRate.Common.pdb
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\obj\Debug\net8.0\CryptoRate.Common.genruntimeconfig.cache
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Common\obj\Debug\net8.0\ref\CryptoRate.Common.dll

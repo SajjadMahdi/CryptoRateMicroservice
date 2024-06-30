@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GrR/TY6EA2q0bCxvabUsBgsC5EGLLr0GW6+t2vjis+w=",
+  "Source": "CryptoRate.Price",
+  "BasePath": "_content/CryptoRate.Price",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

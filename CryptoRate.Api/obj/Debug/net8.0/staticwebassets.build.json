@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P+1jPZzi0sYsIgWrrZYPgrTaHILfTErzlG8BtXIoNpc=",
+  "Source": "CryptoRate.Api",
+  "BasePath": "_content/CryptoRate.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

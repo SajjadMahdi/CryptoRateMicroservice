@@ -1,0 +1,7 @@
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Identity\obj\Debug\net8.0\CryptoRate.Identity.csproj.AssemblyReference.cache
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Identity\obj\Debug\net8.0\CryptoRate.Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Identity\obj\Debug\net8.0\CryptoRate.Identity.AssemblyInfoInputs.cache
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Identity\obj\Debug\net8.0\CryptoRate.Identity.AssemblyInfo.cs
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Identity\obj\Debug\net8.0\CryptoRate.Identity.csproj.CoreCompileInputs.cache
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Identity\obj\Debug\net8.0\CryptoRate.Identity.MvcApplicationPartsAssemblyInfo.cache
+D:\Learn\Micro Service\CryptoRate\CryptoRate.Identity\obj\Debug\net8.0\CryptoRate.Identity.MvcApplicationPartsAssemblyInfo.cs

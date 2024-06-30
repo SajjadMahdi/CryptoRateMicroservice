@@ -1,0 +1,6 @@
+@CryptoRate.Identity_HostAddress = http://localhost:5234
+
+GET {{CryptoRate.Identity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
